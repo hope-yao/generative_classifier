@@ -1,0 +1,13 @@
+/logs
+/models
+
+/adversarial_attacks/CPPN_images
+/adversarial_attacks/FGSM_images
+
+/generative_classifier/logs
+/generative_classifier/models
+
+original_classifier/logs
+original_classifier/models
+
+*.gz
